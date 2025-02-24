@@ -1,12 +1,12 @@
-## Hi there 👋
+# Welcome to the agMCde Github repository!
 
-<!--
+## 👤 Who are we?
+We are duo of university students from Germany exploring the world of programming by creating our own Minecraft Plugins and Server networks.
 
-**Here are some ideas to get you started:**
+## 🛠️ What platforms are we developing on?
+We are currently developing on these platforms:
+- [Velocity](https://papermc.io/software/velocity)
+- [PaperMC](https://papermc.io/software/paper)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📙 What's our project?
+We are currently developing our own custom minecraft network with mostly custom made plugins. We hope that this experience will teach us a lot about software and network development.
